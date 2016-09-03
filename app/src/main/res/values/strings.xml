@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BLWeibo</string>
+    <string name="hint">在此输入要发表的文字</string>
+</resources>
